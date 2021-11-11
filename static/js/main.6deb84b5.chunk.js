@@ -1,2 +1,0 @@
-(this.webpackJsonptestprofile=this.webpackJsonptestprofile||[]).push([[0],{21:function(t,s,e){},28:function(t,s,e){"use strict";e.r(s);e(0),e(17),e(21),e(13),e(1),e(8)}},[[28,1,2]]]);
-//# sourceMappingURL=main.6deb84b5.chunk.js.map
